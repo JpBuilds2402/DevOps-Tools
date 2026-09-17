@@ -3,9 +3,8 @@
 
 **Disciplina:** DEVOPS Tools  
 **Professor:** Renato Sousa Botacim  
-**Aluno:** João Pedro  
-**Turma:** [Inserir sua Turma]  
-**Data:** 15/09/2026  
+**Alunos:** João Pedro Evangelista Ribeiro & Pedro Henrique Souza França   
+**Turma:** AN4tN 
 
 ---
 
