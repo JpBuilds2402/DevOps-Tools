@@ -98,7 +98,6 @@ def gerenciar_item(id):
         
     if request.method == 'PUT':
         dados = request.json
-        # Busca a imagem novamente se houver edição
         imagem_url = buscar_imagem_wikipedia(dados['titulo'])
         
         cur.execute('UPDATE itens SET titulo = %s, categoria = %s, imagem_url = %s WHERE id = %s', 
